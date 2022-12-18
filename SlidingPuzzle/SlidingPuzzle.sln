@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingPuzzle", "SlidingPuzzle.csproj", "{E037E483-17E6-492F-9EF4-26F774C7E156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "..\DTO\DTO.csproj", "{0C19FBE9-4B49-4660-8F41-2BE79E293C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E037E483-17E6-492F-9EF4-26F774C7E156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E037E483-17E6-492F-9EF4-26F774C7E156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E037E483-17E6-492F-9EF4-26F774C7E156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E037E483-17E6-492F-9EF4-26F774C7E156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C19FBE9-4B49-4660-8F41-2BE79E293C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C19FBE9-4B49-4660-8F41-2BE79E293C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C19FBE9-4B49-4660-8F41-2BE79E293C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C19FBE9-4B49-4660-8F41-2BE79E293C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE9E09B-D888-4A85-8A39-B5E7BCD1E3CB}
+	EndGlobalSection
+EndGlobal

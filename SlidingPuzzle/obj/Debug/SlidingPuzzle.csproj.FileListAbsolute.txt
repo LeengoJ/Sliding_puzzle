@@ -1,0 +1,41 @@
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe.config
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.pdb
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\DTO.dll
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\DTO.pdb
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.AssemblyReference.cache
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.SuggestedBindingRedirects.cache
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Properties.Resources.resources
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.SelectPicture.resources
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.SignIn.resources
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.GenerateResource.cache
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.CoreCompileInputs.cache
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.CopyComplete
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.exe
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.pdb
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Play.resources
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.AssemblyReference.cache
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Play.resources
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Properties.Resources.resources
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.SelectPicture.resources
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.SignIn.resources
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.GenerateResource.cache
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.exe
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.pdb
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe.config
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.pdb
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\BAL.dll
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\DTO.dll
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\DAL.dll
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\BAL.pdb
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\DTO.pdb
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\bin\Debug\DAL.pdb
+C:\Users\NguyenTienLoi\Desktop\SlidingPuzzle_10102022\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.CopyComplete
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Win.resources
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\Newtonsoft.Json.dll
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\Newtonsoft.Json.pdb
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\Newtonsoft.Json.xml
+D:\20DTHE4\Nam_III\Hoc_Ky_I\Lap_trinh _tren_moi_truong_Windows\SlidingPuzzle\SlidingPuzzle\bin\Debug\Guna.UI2.dll
